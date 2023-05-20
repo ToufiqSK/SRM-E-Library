@@ -4,6 +4,7 @@ Introducing our innovative SRM e-library app, an all-in-one digital platform des
 
 Our e-library app provides a seamless and user-friendly experience, allowing you to browse, search, and discover a wide range of digital content effortlessly. From classic novels to contemporary bestsellers, from scholarly articles to popular magazines, our extensive collection caters to diverse interests and intellectual pursuits.
 
+Figma Project Link:https://www.figma.com/file/ZFvhgljGgLuy9Pto9IxxeQ/SRM-E-Library?type=design&node-id=0%3A1&t=cR7WIIEok2UMchRc-1
 
 Youtube link:
 https://youtu.be/Q5v_wWRwAzA
